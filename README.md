@@ -1,0 +1,13 @@
+## UNREALPERSON666 ##
+_____________________
+
+- 👋 Hi, I’m @unrealperson666
+- 👀 I’m interested in this coding, programming stuff ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m need a guidances & guidelines, because I'm still newbies in here ...
+- 📫 How to reach me ...
+
+<!---
+unrealperson666/unrealperson666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
